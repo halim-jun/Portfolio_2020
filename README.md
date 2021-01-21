@@ -9,6 +9,7 @@ Project done during year 2020
     - 비디오 판매/렌탈 업체의 매출 시계열 데이터를 이용하여 미래의 매출을 예측하는 프로젝트 입니다.(Prediction for video rental shop's revenue using the past revenue data)
   + Taxi trip prediction : 개인 미니 프로젝트(Private mini project)
     - 뉴욕의 택시 이동 데이터 (도착/출발 시간/지점 데이터) 를 이용하여 뉴욕의 택시 이동 소요시간을 예측하는 프로젝트 입니다. (Prediction for New York taxi trip duration using the taxi's driving data - pickup/dropoff time and location)
+  + A/B testing : A/B testing 후 통계적 검정 과정 입니다. 
   + 그외(Others) : 개인 연습 프로젝트 (Private exercise projects)
     - 그 외 이미지나 자연어 처리에 대한 연습과정입니다. (Exercise projects on image and natural language processing)
     
